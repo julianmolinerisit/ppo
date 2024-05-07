@@ -1,0 +1,1 @@
+//Su función es asignar un nombre alternativo a tipos existentes. Un apodo.
